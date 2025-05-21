@@ -12,7 +12,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "Hrishav Bhattarai"
+  name: "Hrishav Bhattarai"
   avatar : "assets/images/profile.jpg"
   bio    : "Data scientist focused on AI, ML"
   location: "USA"
