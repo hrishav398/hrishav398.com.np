@@ -16,7 +16,15 @@ author:
   avatar : "assets/images/profile.jpg"
   bio    : "Data scientist focused on AI, ML"
   location: "USA"
-
+  
+links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/hrishav398"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/398hrishav"
+      
 logo: "/assets/images/favicon.png"
 
 defaults:
