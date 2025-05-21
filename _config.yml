@@ -1,6 +1,6 @@
 title: Hrishav Bhattarai
-
-remote_theme: jekyll/minima@latest
+description: Data Scientist Portfolio
+remote_theme: jekyll/minima@2.5.1
 
 plugins:
   - jekyll-remote-theme
