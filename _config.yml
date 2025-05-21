@@ -1,15 +1,5 @@
 title: Hrishav Bhattarai
-description: Data Scientist Portfolio
-
 remote_theme: jekyll/minima
 
 plugins:
   - jekyll-remote-theme
-
-footer_links:
-  - label: "Email"
-    url: "mailto:398hrishav@gmail.com"
-  - label: "LinkedIn"
-    url: "https://linkedin.com/in/398hrishav"
-  - label: "GitHub"
-    url: "https://github.com/hrishav398"
