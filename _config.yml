@@ -13,11 +13,11 @@ plugins:
 
 author:
   name   : "Hrishav Bhattarai"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Early-career data scientist focused on AI, ML, and cybersecurity."
-  location: "Nepal • USA"
+  avatar : "assets/images/profile.jpg"
+  bio    : "Data scientist focused on AI, ML"
+  location: "USA"
 
-logo: "/assets/images/profile.jpg"
+logo: "/assets/images/favicon.png"
 
 defaults:
   - scope:
