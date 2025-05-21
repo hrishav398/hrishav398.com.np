@@ -32,8 +32,4 @@ layout: default
 <p>
   This website is a small window into my work and journey. Thanks for stopping by and if something here resonates with you, I’d love to hear from you.
 </p>
-
-  <p>
-    This website is a small window into my work and journey. Thanks for stopping by — and if something here resonates with you, I’d love to hear from you.
-  </p>
 </section>
