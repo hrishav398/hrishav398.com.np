@@ -1,5 +1,10 @@
 title: Hrishav Bhattarai
+
 remote_theme: jekyll/minima@latest
+
+plugins:
+  - jekyll-remote-theme
+
 footer_links:
   - label: "Email"
     url: "mailto:398hrishav@gmail.com"
