@@ -1,39 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hrishav Bhattarai | Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-</head>
-
+  <head>
+    <meta charset="UTF-8">
+    <title>Hrishav Bhattarai | Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  </head>
   <body>
 
-       <!-- Header -->
-<header class="site-header" role="banner" style="border-bottom: 1px solid #eaeaea; padding: 1rem 0;">
-  <div class="wrapper" style="display: flex; justify-content: space-between; align-items: center;">
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="font-weight: bold; text-decoration: none;">
-      {{ site.title }}
-    </a>
-    <nav class="site-nav">
-      <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
-      <a class="page-link" href="{{ '/experience/' | relative_url }}">Experience</a>
-      <a class="page-link" href="{{ '/projects/' | relative_url }}">Projects</a>
-      <a class="page-link" href="{{ '/publications/' | relative_url }}">Publications</a>
-    </nav>
-  </div>
-</header>
+    <!-- Site Header -->
+    <header class="site-header" role="banner">
+      <div class="wrapper" style="display: flex; justify-content: space-between; align-items: center;">
+        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+          <a class="page-link" href="{{ '/experience/' | relative_url }}">Experience</a>
+          <a class="page-link" href="{{ '/projects/' | relative_url }}">Projects</a>
+          <a class="page-link" href="{{ '/publications/' | relative_url }}">Publications</a>
+        </nav>
+      </div>
+    </header>
 
-
-    <!-- Main Page Content -->
+    <!-- Main Content -->
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
-    <!-- Custom Footer -->
+    <!-- Footer -->
     <footer class="site-footer" style="text-align: center; font-size: 0.9rem; padding: 2rem; color: #555;">
       <div class="wrapper">
         <p>© Hrishav Bhattarai</p>
