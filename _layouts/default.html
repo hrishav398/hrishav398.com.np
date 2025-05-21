@@ -1,17 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    <meta charset="UTF-8">
-    <title>Hrishav Bhattarai — Data & AI Portfolio</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
-    <link rel="stylesheet" href="https://jekyll.github.io/minima/assets/main.css">
-  </head>
-  <body>
 
-    <!-- Header / Navbar -->
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    {% if site.google_analytics %}
+      {% include google-analytics.html %}
+    {% endif %}
+  </head>
+
+  <body>
     <header class="site-header" role="banner">
-      <div class="wrapper" style="display: flex; justify-content: space-between; align-items: center;">
+      <div class="wrapper">
         <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav class="site-nav">
           <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
@@ -22,16 +27,14 @@
       </div>
     </header>
 
-    <!-- Main Content -->
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
-    <!-- Footer -->
-    <footer class="site-footer" style="text-align: center; font-size: 0.9rem; padding: 2rem; color: #555;">
-      <div class="wrapper">
+    <footer class="site-footer">
+      <div class="wrapper" style="text-align: center;">
         <p>© Hrishav Bhattarai</p>
         <p>
           <a href="mailto:398hrishav@gmail.com">398hrishav@gmail.com</a> |
@@ -40,6 +43,5 @@
         </p>
       </div>
     </footer>
-
   </body>
 </html>
