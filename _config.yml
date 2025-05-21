@@ -1,0 +1,39 @@
+title: "Hrishav Bhattarai"
+email: "398hrishav@gmail.com"
+description: >-
+  Data Scientist | AI/ML Enthusiast | M.S. in CSE
+baseurl: ""
+url: "https://hrishav398.com.np"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+author:
+  name   : "Hrishav Bhattarai"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Early-career data scientist focused on AI, ML, and cybersecurity."
+  location: "Nepal • USA"
+
+logo: "/assets/images/profile.jpg"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
