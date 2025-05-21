@@ -25,7 +25,6 @@ links:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/398hrishav"
       
-logo: "/assets/images/profile.jpg"
 
 defaults:
   - scope:
