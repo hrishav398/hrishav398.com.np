@@ -7,7 +7,7 @@ layout: default
   <h1>Hrishav Bhattarai</h1>
   <p><strong>Data Scientist | ML/AI Enthusiast | Python • SQL • scikit-learn | IEEE Author | M.S. in CSE</strong></p>
   <p>
-    I'm actively exploring full-time opportunities in <strong>Data Science</strong> and <strong>AI/ML engineering</strong> where I can contribute to solving impactful problems, collaborate with curious minds, and grow in a dynamic, mission-driven environment.
+    I'm actively exploring full-time opportunities in <strong>Data Science</strong> and <strong>AI/ML engineering</strong>. 
   </p>
   <p>
     If you're building something meaningful and data-driven, I’d love to connect!
