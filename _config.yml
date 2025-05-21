@@ -1,6 +1,10 @@
-title: Hrishav Bhattarai
-description: >
-  Email: 398hrishav@gmail.com |
-  <a href="https://linkedin.com/in/398hrishav" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/hrishav398" target="_blank">GitHub</a>
+
 theme: minima
+
+footer_links:
+  - label: "Email"
+    url: "mailto:398hrishav@gmail.com"
+  - label: "LinkedIn"
+    url: "https://linkedin.com/in/398hrishav"
+  - label: "GitHub"
+    url: "https://github.com/hrishav398"
