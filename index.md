@@ -9,19 +9,6 @@ layout: default
 </header>
 
 <section>
-  <h2>Currently</h2>
-  <p>
-    I'm actively exploring full-time opportunities in <strong>Data Science</strong> and <strong>AI/ML engineering</strong> especially in research-driven or product-focused teams where I can contribute to solving impactful problems, collaborate with curious minds, and grow in a dynamic, mission-driven environment.
-  </p>
-  <p>
-    If you're building something meaningful and data-driven, I’d love to connect!
-  </p>
-</section>
-
-<section>
-  <h2>About Me</h2>
-  <p>Hey — I'm Hrishav </p>
-<section>
   <h2>About Me</h2>
   <p>Hey! I'm Hrishav 👋</p>
   <p>
