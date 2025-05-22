@@ -18,18 +18,15 @@ author:
   location: "USA"
   links:
     - label: "Email"
-      icon: "fas fa-envelope"
+      icon: "fas fa-envelope-square"
       url: "mailto:398hrishav@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-square"
       url: "https://linkedin.com/in/398hrishav"
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/hrishav398"
-
-   
  
-      
 
 defaults:
   - scope:
