@@ -1,0 +1,26 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <div class="site-title-wrap" style="display: flex; justify-content: space-between; align-items: center;">
+      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+      {% if site.header.navigation %}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242"
+                d="M18,1.5v2h-18v-2h18ZM18,6.5v2h-18v-2h18ZM18,11.5v2h-18v-2h18Z" />
+            </svg>
+          </span>
+        </label>
+        <div class="trigger">
+          {% for link in site.header.navigation %}
+          <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </nav>
+      {% endif %}
+    </div>
+  </div>
+</header>
