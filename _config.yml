@@ -41,12 +41,15 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:398hrishav@gmail.com"
+      target: _blank
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/398hrishav"
+      target: _blank
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hrishav398"
+      target: _blank
 
 
 # Enable sidebar author profile
