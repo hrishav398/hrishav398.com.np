@@ -8,18 +8,17 @@ body {
   margin-top: auto;
 }
 
-.page__content {
-  max-width: 900px;
-}
-
-.page__content a {
-  color: inherit;
+.page__content a,
+.page__content a:visited {
+  color: inherit !important;
   text-decoration: none;
 }
 
 .page__content a:hover {
+  color: inherit !important;
   text-decoration: underline;
 }
+
 
 /* Footer link hover effect */
 .footer-link {
