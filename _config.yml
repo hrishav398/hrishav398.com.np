@@ -13,6 +13,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
 author:
   name: "Hrishav Bhattarai"
   avatar: "/assets/images/profile.jpg"
@@ -39,10 +45,4 @@ defaults:
       layout: single
       author_profile: true
 
-# other config settings...
 
-sass:
-  style: compressed
-
-include:
-  - assets/css
