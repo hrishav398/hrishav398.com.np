@@ -20,14 +20,15 @@ author:
   location: "USA"
   links:
     - label: "Email"
-      icon: "fas fa-envelope-square"
+      icon: "fas fa-envelope"
       url: "mailto:398hrishav@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/398hrishav"
     - label: "GitHub"
-      icon: "fab fa-github-square"
+      icon: "fab fa-github"
       url: "https://github.com/hrishav398"
+
 
 # Enable sidebar author profile
 defaults:
