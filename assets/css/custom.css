@@ -24,6 +24,20 @@ body {
   color: inherit !important;
 }
 
+/* Force links to match surrounding text */
+.page__content a,
+.page__content a:visited,
+.page__content a:active {
+  color: inherit !important;
+  text-decoration: none;
+}
+
+/* Optional: Underline on hover */
+.page__content a:hover {
+  text-decoration: underline;
+  color: inherit !important;
+}
+
 /* Footer link hover effect */
 .footer-link {
   color: #555;
