@@ -19,6 +19,10 @@ body {
   text-decoration: underline;
 }
 
+.author__urls.social-icons i.fab.fa-linkedin,
+.author__urls.social-icons i.fab.fa-linkedin-square {
+  color: inherit !important;
+}
 
 /* Footer link hover effect */
 .footer-link {
