@@ -19,3 +19,4 @@ When I'm not behind a screen, you'll likely find me with a guitar in hand, a boo
 Fun fact: As a Snowyak Teaching Fellow, I spent 8 days reaching a remote village in Dolpa — two short flights followed by 6 days of non-stop walking to a school with no electricity, radio, TV, or internet. I taught science to students from grades 1–6 and helped support a health camp through data collection. It was one of the most grounding experiences of my life.
 
 This website is a small window into my work and journey. Thanks for stopping by, and if something here resonates with you, I’d love to hear from you.
+{: .text-justify}
