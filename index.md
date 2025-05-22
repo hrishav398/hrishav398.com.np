@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 layout: single
 author_profile: true
 ---
