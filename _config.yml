@@ -51,10 +51,9 @@ author:
       url: "https://github.com/hrishav398"
     
     - label: "Google Scholar"
-      icon: "fas fa-book"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=57pf-1IAAAAJ"
-      
-
+    
 
 # Enable sidebar author profile
 defaults:
