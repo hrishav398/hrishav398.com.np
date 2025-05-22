@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: single
+layout: default
 author_profile: true
 ---
 
