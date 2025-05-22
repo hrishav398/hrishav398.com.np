@@ -13,16 +13,21 @@ plugins:
 
 author:
   name: "Hrishav Bhattarai"
-  avatar : "assets/images/profile.jpg"
-  bio    : "Exploring opportunities in Data Science, AI/ML"
+  avatar: "assets/images/profile.jpg"
+  bio: "Exploring opportunities in Data Science, AI/ML"
   location: "USA"
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/hrishav398"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+     - label: "398hrishav@gmail.com"
+      icon: "fa fa-envelope"
+      url: "398hrishav@gmail.com"
+     - label: "LinkedIn"
+      icon: "fa-linkedin-square"
       url: "https://linkedin.com/in/398hrishav"
+    - label: "GitHub"
+      icon: "fa fa-github-square"
+      url: "https://github.com/hrishav398"
+   
+ 
       
 
 defaults:
