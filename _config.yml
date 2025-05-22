@@ -1,12 +1,12 @@
-_includes/author-profile-custom-links.html
-
 title: "Hrishav Bhattarai"
 email: "398hrishav@gmail.com"
-description: >-
-  Data Scientist | AI/ML Enthusiast | M.S. in CSE
-baseurl: ""
+description: "Data Scientist | AI/ML Enthusiast | M.S. in CSE"
+
+baseurl: "" # leave blank for root
 url: "https://hrishav398.com.np"
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -28,8 +28,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/hrishav398"
- 
 
+# Enable sidebar author profile
 defaults:
   - scope:
       path: ""
@@ -37,14 +37,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# Navigation
-nav:
-  - title: "Home"
-    url: /
-  - title: "Experience"
-    url: /experience/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
