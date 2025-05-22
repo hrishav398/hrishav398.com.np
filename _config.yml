@@ -19,16 +19,16 @@ sass:
 include:
   - assets/css
 
-header:
-  navigation:
-    - title: "Home"
-      url: /
-    - title: "Experience"
-      url: /experience/
-    - title: "Projects"
-      url: /projects/
-    - title: "Publications"
-      url: /publications/
+# Navigation bar
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
 
 author:
   name: "Hrishav Bhattarai"
