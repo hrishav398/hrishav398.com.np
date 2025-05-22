@@ -1,0 +1,24 @@
+/* Sticky footer */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.page__footer {
+  margin-top: auto;
+}
+
+/* Footer link hover effect */
+.footer-link {
+  color: #555;
+  text-decoration: none;
+  margin: 0 0.25rem;
+  transition: color 0.2s ease;
+}
+.footer-link:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.footer-link i {
+  margin-right: 0.35em;
+}
