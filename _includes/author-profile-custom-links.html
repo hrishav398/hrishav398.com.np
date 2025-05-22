@@ -1,0 +1,15 @@
+{% if author.links %}
+  <ul class="author__urls social-icons">
+    {% for link in author.links %}
+      <li>
+        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
+          {% if link.icon %}
+            <i class="{{ link.icon }}"></i>
+          {% endif %}
+          {{ link.label }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
