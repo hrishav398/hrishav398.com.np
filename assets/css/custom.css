@@ -52,3 +52,14 @@ body {
 .footer-link i {
   margin-right: 0.35em;
 }
+
+.page__content a:not(.btn),
+.page__content a:not(.btn):visited,
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):active {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.page__content a:not(.btn):hover {
+  text-decoration: underline !important;
+}
