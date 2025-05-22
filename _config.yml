@@ -38,3 +38,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# other config settings...
+
+sass:
+  style: compressed
+
+include:
+  - assets/css
