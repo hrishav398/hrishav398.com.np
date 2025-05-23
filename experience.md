@@ -23,21 +23,24 @@ permalink: /experience/
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <div class="timeline-header">
-        <img src="/assets/images/uot.png" alt="University of Toledo Logo" class="timeline-logo">
-        <h3>University of Toledo, Toledo, Ohio, USA</h3>
-      </div>
-      <ul class="timeline-roles">
-        <li><strong>Masters in Computer Science and Engineering</strong> — Assured and Trusted Digital Microelectronics Lab</li>
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <img src="/assets/images/uot.png" alt="University of Toledo Logo" class="timeline-logo">
+      <h3>University of Toledo, Toledo, Ohio, USA</h3>
+    </div>
+    <ul class="timeline-roles">
+      <li>
+        <strong>Masters in Computer Science and Engineering</strong><br>
+        Assured and Trusted Digital Microelectronics Lab
         <ul class="timeline-subroles">
-          <li></li><strong>Graduate Teaching Assistant</strong> <span class="timeline-date">(August 2023 – May 2025)</span></li>
+          <li><strong>Graduate Teaching Assistant</strong> <span class="timeline-date">(August 2023 – May 2025)</span></li>
           <li><strong>Graduate Research Assistant</strong> <span class="timeline-date">(August 2022 – May 2025)</span></li>
         </ul>
-      </ul>
-    </div>
+      </li>
+    </ul>
   </div>
+</div>
 
   <div class="timeline-item">
     <div class="timeline-marker"></div>
