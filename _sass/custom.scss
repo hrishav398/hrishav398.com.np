@@ -93,13 +93,25 @@ body {
 .timeline-logo {
   width: 48px;
   height: 48px;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  object-position: center;
+  background-color: #f4f4f4;
+  padding: 4px;
+  border-radius: 6px;
+  display: block;
+}
+
+/*.timeline-logo {
+  width: 48px;
+  height: 48px;
   padding: 4px;
   margin-top: 2px;
   background-color: #f4f4f4;
   border-radius: 6px;
   object-fit: contain;
   display: block;
-}
+}*/
 
 .timeline-marker h3 {
   margin: 0;
