@@ -64,7 +64,98 @@ body {
   text-decoration: underline !important;
 }
 
+
+
+/* Experience Timeline */
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0;
+  padding-left: 0;
+  border-left: none;
+}
+
+.timeline-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-marker {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 6px;
+  background-color: #f4f4f4;
+  padding: 4px;
+  flex-shrink: 0;
+}
+
+.timeline-marker h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+
+.timeline-marker h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.timeline-marker h3 a:hover {
+  text-decoration: underline;
+}
+
+.timeline-content {
+  padding-left: 3rem;
+}
+
+.timeline-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.timeline-date {
+  display: block;
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-roles,
+.timeline-subroles {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.timeline-subroles {
+  list-style-type: circle;
+}
+
+.timeline-subroles li {
+  margin-bottom: 0.2rem;
+  font-size: 0.9rem;
+}
+
+.no-bullet {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+
+
 /* Experience */
+/*
 .timeline {
   position: relative;
   margin: 2rem 0;
@@ -78,7 +169,7 @@ body {
   padding-left: 10px;
 }
 
-/*.timeline-marker {
+.timeline-marker {
   position: absolute;
   left: -9px;
   top: 4px;
@@ -87,7 +178,7 @@ body {
   background: #444;
   border: 2px solid #fff;
   border-radius: 50%;
-}*/
+} double
 .timeline-marker {
   width: 48px;
   height: 48px;
@@ -135,4 +226,4 @@ body {
 .timeline-subroles li {
   margin-bottom: 0.2rem;
   font-size: 0.9rem;
-}
+}*/
