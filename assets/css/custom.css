@@ -69,7 +69,8 @@ body {
   position: relative;
   margin: 2rem 0;
   padding-left: 2rem;
-  border-left: 2px solid #ccc;
+  /*border-left: 2px solid #ccc;*/
+  border: 2px solid red;
 }
 
 .timeline-entry {
