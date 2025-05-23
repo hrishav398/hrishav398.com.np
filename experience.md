@@ -31,8 +31,7 @@ permalink: /experience/
     </div>
     <ul class="timeline-roles">
       <li>
-        <strong>Masters of Science in Computer Science and Engineering</strong><br>
-        Assured and Trusted Digital Microelectronics Lab
+        <strong>Masters of Science in Computer Science and Engineering</strong>, Assured and Trusted Digital Microelectronics Lab
         <ul class="timeline-subroles">
           <li><strong>Graduate Teaching Assistant</strong> <span class="timeline-date">(August 2023 – May 2025)</span></li>
           <li><strong>Graduate Research Assistant</strong> <span class="timeline-date">(August 2022 – May 2025)</span></li>
