@@ -63,3 +63,36 @@ body {
 .page__content a:not(.btn):hover {
   text-decoration: underline !important;
 }
+
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  border-left: 2px solid #ccc;
+}
+
+.timeline-entry {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.timeline-entry::before {
+  content: "";
+  position: absolute;
+  left: -0.6rem;
+  top: 0.4rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #555;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.timeline-date {
+  display: block;
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
+}
+
