@@ -83,8 +83,7 @@ permalink: /experience/
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
-        <li><strong>Junior Data Engineer</strong> <span class="timeline-date">(November 2018 – June 2019)</span></li>
-        <li><strong>Junior Data Engineer</strong> <span class="timeline-date">(November 2017 – March 2018)</span></li>
+        <li><strong>Junior Data Engineer</strong> <span class="timeline-date">(November 2017 – March 2018) & (November 2018 – June 2019)</span></li>
       </ul>
     </div>
   </div>
