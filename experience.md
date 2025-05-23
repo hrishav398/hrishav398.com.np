@@ -42,8 +42,8 @@ permalink: /experience/
     <div class="timeline-marker"></div>
     <div class="timeline-content">
       <div class="timeline-header">
-        <img src="/assets/images/hdi.png" alt="HDI Logo" class="timeline-logo">
-        <h3>Himalayan Development Initiative (HDI), Kathmandu, Nepal</h3>
+        <a href="https://hdinepal.org/" target="_blank"><img src="/assets/images/hdi.png" alt="HDI Logo" class="timeline-logo">
+        <h3>Himalayan Development Initiative (HDI), Kathmandu, Nepal</h3></a>
       </div>
       <ul class="timeline-roles">
         <li><strong>Data, Social Media & Communication Officer</strong> <span class="timeline-date">(December 2020 – January 2022)</span></li>
