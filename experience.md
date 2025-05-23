@@ -31,7 +31,7 @@ permalink: /experience/
     </div>
     <ul class="timeline-roles">
       <li>
-        <strong>Masters in Computer Science and Engineering</strong><br>
+        <strong>Masters of Science in Computer Science and Engineering</strong><br>
         Assured and Trusted Digital Microelectronics Lab
         <ul class="timeline-subroles">
           <li><strong>Graduate Teaching Assistant</strong> <span class="timeline-date">(August 2023 – May 2025)</span></li>
@@ -129,7 +129,7 @@ permalink: /experience/
         <h3>Tribhuvan University, Kathmandu, Nepal</h3>
       </div>
       <ul class="timeline-roles">
-        <li><strong>Bachelor’s in Engineering in Computer Engineering</strong> <span class="timeline-date">(November 2013 – September 2017)</span></li>
+        <li><strong>Bachelor’s of Engineering in Computer Engineering</strong> <span class="timeline-date">(November 2013 – September 2017)</span></li>
       </ul>
     </div>
   </div>
