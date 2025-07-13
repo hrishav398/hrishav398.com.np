@@ -10,7 +10,6 @@ A data-driven problem solver with a background in computer engineering, applied 
 -  Master of Science in Computer Science, University of Toledo (May 2025)
 
   -  Graduate Research Assistant at the Assured and Trusted Digital Microelectronics Lab, University of Toledo
-
     -  Conducted research as part of a $30M AFRL-funded project, focusing on trust modeling for smart grids using fuzzy logic and blockchain
     -  Published 4 IEEE papers on Advanced Metering Infrastructure, Attribute-Based Access Control, and Zero Trust Architecture
 
