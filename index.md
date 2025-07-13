@@ -5,18 +5,22 @@ author_profile: true
 ---
 
 Hey! I'm Hrishav 👋
+A data-driven problem solver with a background in computer engineering, applied research, and community impact.
 
-I'm a curious and creative builder with a background in computer engineering and a passion for using data to solve real-world problems. I grew up in Nepal, where I first discovered the joy of making things work, whether it was a website or a classroom full of students learning something new.
-{: .text-justify}
-Over the years, I've worked in diverse environments: from managing rural water data systems in the Himalayas to researching security models for smart meters in the U.S. My journey has taken me across disciplines like software engineering, education, data analytics, and cybersecurity. What ties it all together is my desire to understand systems deeply, make them better, and share what I learn along the way.
-{: .text-justify}
-I recently completed my Master’s in Computer Science Engineering at the University of Toledo, where I worked on trust-based models and Zero Trust Architecture under a $30M AFRL-funded project. I'm also a published IEEE author, and my research bridges fuzzy logic, blockchain, and infrastructure security.
-{: .text-justify}
-Outside of work, I care deeply about storytelling, accessible design, and community-driven impact. I'm the kind of person who enjoys learning just for the sake of it — whether it's exploring a new Python library, reading non-fiction, or deep-diving into a documentary on how cities function.
-{: .text-justify}
-When I'm not behind a screen, you'll likely find me with a guitar in hand, a book in my backpack, or on the move in nature. I've completed 9 major treks across Nepal, including regions like Annapurna and Dolpa. Those journeys continue to shape how I think about resilience, simplicity, and connection.
-{: .text-justify}
-Fun fact: As a Snowyak Teaching Fellow, I spent 8 days reaching a remote village in Dolpa — two short flights followed by 6 days of non-stop walking to a school with no electricity, radio, TV, or internet. I taught science to students from grades 1–6 and helped support a health camp through data collection. It was one of the most grounding experiences of my life.
-{: .text-justify}
-This website is a small window into my work and journey. Thanks for stopping by, and if something here resonates with you, I’d love to hear from you.
-{: .text-justify}
+-  Master of Science in Computer Science, University of Toledo (May 2025)
+
+  -  Graduate Research Assistant at the Assured and Trusted Digital Microelectronics Lab, University of Toledo
+
+    -  Conducted research as part of a $30M AFRL-funded project, focusing on trust modeling for smart grids using fuzzy logic and blockchain
+    -  Published 4 IEEE papers on Advanced Metering Infrastructure, Attribute-Based Access Control, and Zero Trust Architecture
+
+-  Maintained and analyzed the Management Information System for water resources data for over 1.4 million beneficiaries across 10 districts in rural Nepal
+
+-   Taught science for 6 months in Dolpo, a remote Himalayan region at 3,600+ meters elevation
+
+  -  Reached the village after 6 days of trekking through rugged mountain trails
+  -  Lived in a settlement with no phone, no internet, no radio, and no television
+
+-  Passionate about solving complex problems with clarity, empathy, and data
+
+⚽️ Football 🎸 Guitar 🥾 Trekking
