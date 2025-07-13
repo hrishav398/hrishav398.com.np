@@ -4,10 +4,10 @@ layout: single
 author_profile: true
 ---
 
-Hey! I'm Hrishav 👋
-A data-driven problem solver with a background in computer engineering, applied research, and community impact.
+Hey! I'm Hrishav. 
+Thanks for stopping by, and if something here resonates with you, I’d love to hear from you.
 
--   Master of Science in Computer Science, University of Toledo (May 2025)
+-   Master of Science in Computer Science and Engineering, University of Toledo (May 2025)
     -  Graduate Research Assistant at the Assured and Trusted Digital Microelectronics Lab
     -  Conducted research as part of a $30M AFRL-funded project, focusing on trust modeling for smart grids using fuzzy logic and blockchain
     -  Published 4 IEEE papers on Advanced Metering Infrastructure, Attribute-Based Access Control, and Zero Trust Architecture
