@@ -39,7 +39,7 @@ author:
   location: "USA"
   links:
     - label: "Schedule a Meeting"
-      icon: "fa-sharp fa-solid fa-calendar-plus"
+      icon: "fa fa-calendar"
       url: "https://cal.com/hrishav-bhattarai/"
       
     - label: "Email"
