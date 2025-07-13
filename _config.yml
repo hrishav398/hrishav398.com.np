@@ -38,6 +38,10 @@ author:
   bio: "Data Analyst -- M.S. in CSE -- Python, SQL, Power BI, Excel"
   location: "USA"
   links:
+    - label: "Schedule a Meeting"
+      icon: "fa-sharp fa-solid fa-calendar-plus"
+      url: "https://cal.com/hrishav-bhattarai/"
+      
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:398hrishav@gmail.com"
