@@ -1,10 +1,9 @@
 ---
-title: "Home"
+title: "Hey! I'm Hrishav"
 layout: single
 author_profile: true
 ---
 
-Hey! I'm Hrishav. 
 Thanks for stopping by, and if something here resonates with you, I’d love to hear from you.
 
 -   Master of Science in Computer Science and Engineering, University of Toledo
