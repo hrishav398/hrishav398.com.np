@@ -1,5 +1,5 @@
 ---
-title: "Hey! I'm Hrishav"
+title: "Hello there!"
 layout: single
 author_profile: true
 ---
