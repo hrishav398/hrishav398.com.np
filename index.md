@@ -1,5 +1,4 @@
 ---
-title: "Hello there!"
 layout: single
 author_profile: true
 ---
