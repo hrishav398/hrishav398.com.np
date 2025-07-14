@@ -1,3 +1,13 @@
+.site-title {
+  text-indent: -9999px; /* Hide the text */
+  background-image: url('/assets/images/favicon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 120px; /* adjust as needed */
+  height: 40px; /* adjust as needed */
+  display: block;
+}
 /* Sticky footer */
 body {
   display: flex;
