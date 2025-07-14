@@ -1,7 +1,9 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
     <div class="site-title-wrap" style="display: flex; justify-content: space-between; align-items: center;">
-      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }}" style="height: 40px; width: auto;">
+      </a>
 
       {% if site.header.navigation %}
       <nav class="site-nav">
