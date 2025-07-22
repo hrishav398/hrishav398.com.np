@@ -24,17 +24,6 @@ include:
 
 show_nav: true
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Experience"
-    url: /experience/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
-
-
 author:
   name: #"Hrishav Bhattarai"
   avatar: "/assets/images/profile.jpg"
