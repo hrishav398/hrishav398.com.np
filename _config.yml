@@ -61,7 +61,26 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=57pf-1IAAAAJ"
     
-
+# Site Footer
+footer:
+  links:
+    - label: "Schedule a Meeting"
+      icon: "fa fa-calendar"
+      url: "https://cal.com/hrishav-bhattarai/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:398hrishav@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rkovashikawa/"
+      - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/hrishav398"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=57pf-1IAAAAJ"
+  since: "Hrishav Bhattarai"
+  
 # Enable sidebar author profile
 defaults:
   - scope:
