@@ -73,7 +73,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/398hrishav/"
-      - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hrishav398"
     - label: "Google Scholar"
