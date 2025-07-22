@@ -25,7 +25,7 @@ include:
 show_nav: true
 
 author:
-  name: #"Hrishav Bhattarai"
+  name: "Hrishav Bhattarai"
   avatar: "/assets/images/profile.jpg"
   bio: "Data Analyst -- M.S. in CSE -- Python, SQL, Power BI, Excel"
   location: "USA"
