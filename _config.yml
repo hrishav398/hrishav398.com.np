@@ -1,6 +1,9 @@
+locale: "en-US"
 title: "Hrishav - 398"
+title_separator: "|"
+subtitle: "Data Analyst | M.S. in CSE | Python, SQL, Power BI | Transforming Data into Strategic Insights"
 email: "398hrishav@gmail.com"
-description: "Data Analyst | M.S. in CSE | Python, SQL, Power BI | Transforming Data into Strategic Insights"
+description: "About me, my projects and my interests"
 
 baseurl: "" # leave blank for root
 url: "https://hrishav398.com.np"
@@ -33,7 +36,7 @@ navigation:
 
 
 author:
-  name: "Hrishav Bhattarai"
+  name: #"Hrishav Bhattarai"
   avatar: "/assets/images/profile.jpg"
   bio: "Data Analyst -- M.S. in CSE -- Python, SQL, Power BI, Excel"
   location: "USA"
