@@ -30,6 +30,13 @@ body {
   color: inherit !important;
 }
 
+/* Strip brand colors from all social/nav icons in sidebar and footer */
+.author__urls a i,
+.page__footer a i,
+.page__footer-follow a i {
+  color: inherit !important;
+}
+
 /* ============================================
    Content links
    ============================================ */

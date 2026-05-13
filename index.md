@@ -9,7 +9,7 @@ Getting there took six days of trekking through mountain trails to a village wit
 
 I completed my M.S. in Computer Science at the University of Toledo, where I worked as a Graduate Research Assistant on cybersecurity for smart grid infrastructure — publishing four IEEE papers on Zero Trust Architecture and Advanced Metering Infrastructure along the way. Currently I work as a Technical Support Engineer at Vepo Solutions.
 
-Outside of work: ⚽ football, 🎸 guitar, 🥾 trekking.
+Outside of work: football, guitar, trekking.
 
 ---
 
