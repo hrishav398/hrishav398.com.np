@@ -7,14 +7,9 @@ permalink: /experience/
 
   <div class="timeline-item">
     <div class="timeline-marker timeline-header">
-      <!--
-        Add Vepo Solutions logo: place the image at /assets/images/vepo.png
-        Recommended size: 48x48px or similar square format
-        Then replace the placeholder below with:
-          <a href="https://vepossolutions.com/" target="_blank">
-            <img src="/assets/images/vepo.png" alt="Vepo Solutions Logo" class="timeline-logo">
-          </a>
-      -->
+      <a href="https://vepossolutions.com/" target="_blank">
+        <img src="/assets/images/vepo.png" alt="Vepo Solutions Logo" class="timeline-logo">
+      </a>
       <h3><a href="https://vepossolutions.com/" target="_blank">Vepo Solutions</a></h3>
     </div>
     <div class="timeline-content">
