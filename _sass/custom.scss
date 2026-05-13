@@ -162,6 +162,34 @@ body {
 }
 
 /* ============================================
+   Home page — recent posts list
+   ============================================ */
+.recent-posts {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+
+.recent-posts li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #2a2a3a;
+}
+
+.recent-posts li:last-child {
+  border-bottom: none;
+}
+
+.recent-posts a {
+  font-weight: 600;
+}
+
+.recent-post-excerpt {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  color: #9999bb;
+}
+
+/* ============================================
    Blog listing
    ============================================ */
 .archive__item-title a {
