@@ -26,13 +26,14 @@ body {
 }
 
 /* ============================================
-   Accent color: #4fc3f7 (light blue)
-   Used for links, timeline, hover states
+   Accent color: #4fc3f7 (light blue) — used only for
+   decorative elements (timeline border, masthead line).
+   All links use inherit so they match surrounding text.
    ============================================ */
 
 /* Nav hover */
 .greedy-nav a:hover {
-  color: #4fc3f7 !important;
+  color: inherit !important;
 }
 
 /* Masthead bottom line */
@@ -45,12 +46,12 @@ body {
    ============================================ */
 .page__content a,
 .page__content a:visited {
-  color: #4fc3f7 !important;
+  color: inherit !important;
   text-decoration: none;
 }
 
 .page__content a:hover {
-  color: #81d4fa !important;
+  color: inherit !important;
   text-decoration: underline;
 }
 
@@ -62,8 +63,8 @@ body {
 }
 
 .timeline-marker h3 a:hover {
-  color: #4fc3f7 !important;
-  text-decoration: none;
+  color: inherit !important;
+  text-decoration: underline;
 }
 
 /* ============================================
@@ -77,7 +78,7 @@ body {
 }
 
 .footer-link:hover {
-  color: #4fc3f7;
+  color: inherit;
   text-decoration: underline;
 }
 
@@ -198,12 +199,12 @@ body {
    Blog listing
    ============================================ */
 .archive__item-title a {
-  color: #4fc3f7 !important;
+  color: inherit !important;
   text-decoration: none;
 }
 
 .archive__item-title a:hover {
-  color: #81d4fa !important;
+  color: inherit !important;
   text-decoration: underline;
 }
 
