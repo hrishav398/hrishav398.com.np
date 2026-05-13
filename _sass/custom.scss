@@ -1,87 +1,97 @@
+/* ============================================
+   Site branding
+   ============================================ */
 .site-title {
-  text-indent: -9999px; /* Hide the text */
+  text-indent: -9999px;
   background-image: url('/assets/images/favicon.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  width: 120px; /* adjust as needed */
-  height: 40px; /* adjust as needed */
+  width: 120px;
+  height: 40px;
   display: block;
 }
-/* Sticky footer */
+
+/* ============================================
+   Layout
+   ============================================ */
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
+
 .page__footer {
   margin-top: auto;
 }
 
+/* ============================================
+   Accent color: #4fc3f7 (light blue)
+   Used for links, timeline, hover states
+   ============================================ */
+
+/* Nav hover */
+.greedy-nav a:hover {
+  color: #4fc3f7 !important;
+}
+
+/* Masthead bottom line */
+.masthead {
+  border-bottom: 1px solid #1e3a4a !important;
+}
+
+/* ============================================
+   Content links
+   ============================================ */
 .page__content a,
 .page__content a:visited {
-  color: inherit !important;
+  color: #4fc3f7 !important;
   text-decoration: none;
 }
 
 .page__content a:hover {
-  color: inherit !important;
+  color: #81d4fa !important;
   text-decoration: underline;
 }
 
-.author__urls.social-icons i.fab.fa-linkedin,
-.author__urls.social-icons i.fab.fa-linkedin-square {
-  color: inherit !important;
-}
-
-/* Force links to match surrounding text */
-.page__content a,
-.page__content a:visited,
-.page__content a:active {
+/* Keep timeline org name links matching surrounding text */
+.timeline-marker h3 a,
+.timeline-marker h3 a:visited {
   color: inherit !important;
   text-decoration: none;
 }
 
-/* Optional: Underline on hover */
-.page__content a:hover {
-  text-decoration: underline;
-  color: inherit !important;
+.timeline-marker h3 a:hover {
+  color: #4fc3f7 !important;
+  text-decoration: none;
 }
 
-/* Footer link hover effect */
+/* ============================================
+   Footer links
+   ============================================ */
 .footer-link {
-  color: #555;
+  color: #8888aa;
   text-decoration: none;
   margin: 0 0.25rem;
   transition: color 0.2s ease;
 }
+
 .footer-link:hover {
-  color: #000;
+  color: #4fc3f7;
   text-decoration: underline;
 }
+
 .footer-link i {
   margin-right: 0.35em;
 }
 
-.page__content a:not(.btn),
-.page__content a:not(.btn):visited,
-.page__content a:not(.btn):hover,
-.page__content a:not(.btn):active {
-  color: inherit !important;
-  text-decoration: none !important;
-}
-.page__content a:not(.btn):hover {
-  text-decoration: underline !important;
-}
-
-
-
-/* Experience Timeline */
-
+/* ============================================
+   Experience Timeline
+   ============================================ */
 .timeline {
   position: relative;
   padding-left: 18px;
-  border-left: 5px solid #444;
+  border-left: 5px solid #4fc3f7;
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -100,28 +110,18 @@ body {
   margin-bottom: 0.5rem;
 }
 
+/* Light background on logos keeps them readable on any theme */
 .timeline-logo {
   width: 48px;
   height: 48px;
   aspect-ratio: 1 / 1;
   object-fit: contain;
   object-position: center;
-  background-color: #f4f4f4;
+  background-color: #e8e8e8;
   padding: 4px;
   border-radius: 6px;
   display: block;
 }
-
-/*.timeline-logo {
-  width: 48px;
-  height: 48px;
-  padding: 4px;
-  margin-top: 2px;
-  background-color: #f4f4f4;
-  border-radius: 6px;
-  object-fit: contain;
-  display: block;
-}*/
 
 .timeline-marker h3 {
   margin: 0;
@@ -129,29 +129,14 @@ body {
   line-height: 1.3;
 }
 
-.timeline-marker h3 a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.timeline-marker h3 a:hover {
-  text-decoration: underline;
-}
-
 .timeline-content {
   padding-left: 2rem;
-}
-
-.timeline-content h3 {
-  margin-top: 0;
-  margin-bottom: 0.3rem;
-  font-size: 1.2rem;
 }
 
 .timeline-date {
   display: block;
   font-size: 0.9rem;
-  color: #888;
+  color: #8888aa;
   margin-bottom: 0.5rem;
 }
 
@@ -176,5 +161,24 @@ body {
   margin-left: 0;
 }
 
+/* ============================================
+   Blog listing
+   ============================================ */
+.archive__item-title a {
+  color: #4fc3f7 !important;
+  text-decoration: none;
+}
 
+.archive__item-title a:hover {
+  color: #81d4fa !important;
+  text-decoration: underline;
+}
 
+.archive__item-excerpt {
+  color: #9999bb;
+}
+
+.page__date,
+.list__item time {
+  color: #8888aa;
+}

@@ -7,6 +7,36 @@ permalink: /experience/
 
   <div class="timeline-item">
     <div class="timeline-marker timeline-header">
+      <!--
+        Add Vepo Solutions logo: place the image at /assets/images/vepo.png
+        Recommended size: 48x48px or similar square format
+        Then replace the placeholder below with:
+          <a href="https://vepossolutions.com/" target="_blank">
+            <img src="/assets/images/vepo.png" alt="Vepo Solutions Logo" class="timeline-logo">
+          </a>
+      -->
+      <h3><a href="https://vepossolutions.com/" target="_blank">Vepo Solutions</a></h3>
+    </div>
+    <div class="timeline-content">
+      <ul class="timeline-roles no-bullet">
+        <li>
+          <strong>Technical Support Engineer I</strong>
+          <span class="timeline-date">(January 2026 – Present)</span>
+          <!--
+            To add roles and responsibilities, replace this comment with a nested list, e.g.:
+            <ul class="timeline-subroles">
+              <li>Brief description of responsibility one</li>
+              <li>Brief description of responsibility two</li>
+              <li>Key achievement or impact</li>
+            </ul>
+          -->
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker timeline-header">
       <a href="https://www.utoledo.edu/" target="_blank">
         <img src="/assets/images/uot.png" alt="University of Toledo Logo" class="timeline-logo">
       </a>
