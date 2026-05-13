@@ -80,7 +80,7 @@ permalink: /experience/
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
-        <li><strong>Data, Social Media & Communication Officer</strong> <span class="timeline-date">(December 2020 – January 2022)</span></li>
+        <li><strong>Data Analyst (Digital Marketing)</strong> <span class="timeline-date">(December 2020 – January 2022)</span></li>
       </ul>
     </div>
   </div>
@@ -108,7 +108,7 @@ permalink: /experience/
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
-        <li><strong>Junior Data Engineer</strong> <span class="timeline-date">(November 2017 – March 2018) & (November 2018 – June 2019)</span></li>
+        <li><strong>Part-time Junior Data Analyst (Finance)</strong> <span class="timeline-date">(November 2017 – March 2018) &amp; (November 2018 – June 2019)</span></li>
       </ul>
     </div>
   </div>
@@ -136,7 +136,7 @@ permalink: /experience/
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
-        <li><strong>Co-Founder & Quality Assurance Engineer</strong> <span class="timeline-date">(September 2016 – December 2018)</span></li>
+        <li><strong>Junior Data Analyst (Consultant)</strong> <span class="timeline-date">(September 2016 – December 2018)</span></li>
       </ul>
     </div>
   </div>
@@ -150,10 +150,9 @@ permalink: /experience/
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
-        <li><strong>Bachelor’s of Engineering in Computer Engineering</strong> <span class="timeline-date">(November 2013 – September 2017)</span></li>
+        <li><strong>Bachelor's of Engineering in Computer Engineering</strong> <span class="timeline-date">(November 2013 – September 2017)</span></li>
       </ul>
     </div>
   </div>
 
 </div>
-
