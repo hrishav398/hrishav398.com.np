@@ -3,11 +3,11 @@ layout: single
 author_profile: true
 ---
 
-I'm Hrishav — a data and tech professional who spent six months teaching science in one of the most remote corners of Nepal.
+I'm Hrishav — a data and tech professional who spent <a href="https://youtu.be/DpfY1xNxQoM?si=N4vg-O4Qrr2t7ssc">six months teaching science in one of the most remote corners of the world - Dolpo, Nepal</a>.
 
 Getting there took six days of trekking through mountain trails to a village with no phone, no internet, no radio, no television. That experience shaped how I think about hard problems: clearly, patiently, and with the person on the other end of it firmly in mind.
 
-I completed my M.S. in Computer Science at the University of Toledo, where I worked as a Graduate Research Assistant on cybersecurity for smart grid infrastructure — publishing four IEEE papers on Zero Trust Architecture and Advanced Metering Infrastructure along the way. Currently I work as a Technical Support Engineer at Vepo Solutions.
+I completed my M.S. in Computer Science at the University of Toledo, where I worked as a Graduate Research Assistant on cybersecurity for smart grid infrastructure — publishing <a href="https://hrishav398.com.np/publications/">four IEEE papers on Zero Trust Architecture and Advanced Metering Infrastructure along the way</a>. Currently I work as a Technical Support Engineer at Vepo Solutions.
 
 Outside of work: football, guitar, trekking.
 
