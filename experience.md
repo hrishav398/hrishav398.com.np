@@ -10,7 +10,7 @@ permalink: /experience/
       <a href="https://vepossolutions.com/" target="_blank">
         <img src="/assets/images/vepo.png" alt="Vepo Solutions Logo" class="timeline-logo">
       </a>
-      <h3><a href="https://vepossolutions.com/" target="_blank">Vepo Solutions</a></h3>
+      <h3><a href="https://veposolutions.com/" target="_blank">Vepo Solutions</a></h3>
     </div>
     <div class="timeline-content">
       <ul class="timeline-roles no-bullet">
